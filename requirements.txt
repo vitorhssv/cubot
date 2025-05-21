@@ -1,0 +1,3 @@
+# Packages needed for normal functioning of the bot
+aiogram
+dotenv
